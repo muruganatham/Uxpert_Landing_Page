@@ -1,6 +1,4 @@
-# UXpert | Leading UI/UX Design Studio
 
-[![UXpert Banner](https://i.postimg.cc/yNPBW7nQ/uxpert-home.png)](https://uxpert.netlify.app/)
 
 ## Overview
 
@@ -11,10 +9,9 @@
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Tech Stack
 
@@ -30,68 +27,8 @@
 - **Customer Testimonials**: Highlighting success stories and case studies.
 - **Pricing Plans**: Detailed and competitive subscription options.
 
-## Screenshots
 
-### Hero Section
 
-![Hero Section](https://i.postimg.cc/yNPBW7nQ/uxpert-home.png)
-
-### How It Works Section
-
-![ Section](https://i.postimg.cc/YCQtK6Fw/uxpert-operations.png)
-
-### Sign Up Process Section
-
-![ Section](https://i.postimg.cc/fTGMr2JK/uxpert-signup.png)
-
-### Testimonials Section
-
-![ Section](https://i.postimg.cc/bv8pzZ0S/uxpert-testimonial.png)
-
-### Pricing Section
-
-![ Section](https://i.postimg.cc/Y0Vtk88t/uxpert-pricing.png)
-
-### Tips Section
-
-![ Section](https://i.postimg.cc/tRmqhCb8/uxpert-tips.png)
-
-### FAQ Section
-
-![ Section](https://i.postimg.cc/Y0jtJT6X/uxpert-faq.png)
-
-### Get Started Section
-
-![ Section](https://i.postimg.cc/X7GVxS7q/uxpert-connect.png)
-
-### Footer Section
-
-![ Section](https://i.postimg.cc/63WWh8yx/uxpert-footer.png)
-
-## Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Alkaison/UXpert.git
-   ```
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd UXpert
-   ```
-
-3. **Install dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
 
 ## Contributing
 
@@ -102,6 +39,3 @@ We welcome contributions to improve UXpert! Please follow these steps:
 3. Commit your changes.
 4. Push the branch and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
