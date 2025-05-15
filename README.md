@@ -2,7 +2,7 @@
 
 ## Overview
 
-**UXpert** is a modern UI/UX design subscription service that offers scalable, adaptable, and fast turnaround design solutions tailored for startups. This landing page provides an engaging overview of our services, pricing plans, and customer testimonials to attract potential clients and showcase our value proposition. [Checkout here.](https://uxpert.netlify.app/)
+**UXpert** is a modern UI/UX design subscription service that offers scalable, adaptable, and fast turnaround design solutions tailored for startups. This landing page provides an engaging overview of our services, pricing plans, and customer testimonials to attract potential clients and showcase our value proposition. 
 
 ## Table of Contents
 
